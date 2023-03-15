@@ -1,0 +1,27 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elite-coder-5150/load-balancer-typescript.git"
+  },
+  "author": "darrell parkhouse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elite-coder-5150/load-balancer-typescript/issues"
+  },
+  "homepage": "https://github.com/elite-coder-5150/load-balancer-typescript#readme",
+  "dependencies": {
+    "@types/redis": "^4.0.11",
+    "redis": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.4.1",
+    "jest": "^29.5.0"
+  }
+}
